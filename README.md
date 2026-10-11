@@ -1,10 +1,10 @@
 # Hi there, I'm SREELESH A 👋
 
-🚀 **Full-Stack Developer & Tech Builder** | Passionate about building scalable web applications, solving real-world problems, and contributing to open-source software.
+ **Full-Stack Developer & Tech Builder** | Passionate about building scalable web applications, solving real-world problems, and contributing to open-source software.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 **Languages & Core:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +25,7 @@
 
 ---
 
-### ⚡ What I'm Doing
+###  What I'm Doing
 
 - 💻 Developing full-stack web applications using the **MERN / React & Node** ecosystem.
 - 🏗️ Building and maintaining startup products and modular codebases.
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sree6235&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 🎯 2026 Goals
+###  2026 Goals
 
 - [x] Establish daily Git commit and contribution discipline
 - [ ] Complete the 30-Day GitHub Challenge
